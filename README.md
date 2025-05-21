@@ -2,13 +2,7 @@
 
 A React-based LinkedIn insights dashboard that fetches and displays public LinkedIn posts with filters, featured highlights, responsive cards, and a professional UI.
 
-## 📸 Live Preview
-
-Please visit [React Assignment CFlow - Live](https://dummy.netlify.app) to see the site's live preview.
-
-![Linked Post Dashboard](./public/cover.png)
-
-## 🚀 Features
+### 🚀 Features
 
 - Search posts by keyword or author name
 - Filter by post type (original, reshared, video)
@@ -18,25 +12,24 @@ Please visit [React Assignment CFlow - Live](https://dummy.netlify.app) to see t
 - Reshared post support
 - Reusable, component-driven architecture
 
-## 🧪 Tech Stack
+## 📸 Live Preview
 
-- React + Hooks
-- Custom CSS (no framework)
-- RapidAPI (LinkedIn API)
-- Environment variables for API keys
+Please visit [React Assignment CFlow - Live](https://react-assignment-cflow.netlify.app) to see the site's live preview.
+
+![Linked Post Dashboard](./public/cover.png)
 
 ## 🛠 How to Run Locally
 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yodkwtf/react-assignment-cflow.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd linked-post-dashboard
+   cd react-assignment-cflow
    ```
 
 3. Install dependencies:
@@ -48,8 +41,8 @@ Please visit [React Assignment CFlow - Live](https://dummy.netlify.app) to see t
 4. Create a `.env` file in the root directory and add your RapidAPI key:
 
    ```.env
-   REACT_APP_RAPIDAPI_KEY=9e02af5f24mshd599d4da343d6e2p123a19jsn14c0dc1e3577
-   REACT_APP_RAPIDAPI_HOST=linkedin-api8.p.rapidapi.com
+   REACT_APP_RAPIDAPI_KEY=<YOUR_RAPIDAPI_KEY>
+   REACT_APP_RAPIDAPI_HOST=<YOUR_RAPIDAPI_HOST>
    ```
 
 5. Start the development server:
@@ -75,4 +68,3 @@ For any questions or feedback, please reach out to me through the sources below:
 - **Email:** [48durgesh.chaudhary@gmail.com](mailto:48durgesh.chaudhary@gmail.com)
 - **LinkedIn:** [Durgesh Chaudhary](https://www.linkedin.com/in/durgesh-chaudhary/)
 - **GitHub:** [@yodkwtf](https://github.com/yodkwtf)
-# react-assignment-cflow

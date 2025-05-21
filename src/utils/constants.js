@@ -11,7 +11,7 @@ export const POST_LIST_LIMIT = 6;
 export const POST_FEATURED_LIMIT = 3;
 
 export const LINKS = {
-  GITHUB_REPO: '',
-  LIVE_DEMO: '',
-  PORTFOLIO: '',
+  GITHUB_REPO: 'https://github.com/yodkwtf/react-assignment-cflow',
+  LIVE_DEMO: 'https://react-assignment-cflow.netlify.app/',
+  PORTFOLIO: 'https://yodkwtf.com',
 };
