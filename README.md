@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Linked Post Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React-based LinkedIn insights dashboard that fetches and displays public LinkedIn posts with filters, featured highlights, responsive cards, and a professional UI.
 
-## Available Scripts
+## 📸 Live Preview
 
-In the project directory, you can run:
+Please visit [React Assignment CFlow - Live](https://dummy.netlify.app) to see the site's live preview.
 
-### `npm start`
+![Linked Post Dashboard](./public/cover.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Search posts by keyword or author name
+- Filter by post type (original, reshared, video)
+- Featured top 3 engaging posts
+- Responsive layout
+- Skeleton loading placeholders
+- Reshared post support
+- Reusable, component-driven architecture
 
-### `npm test`
+## 🧪 Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React + Hooks
+- Custom CSS (no framework)
+- RapidAPI (LinkedIn API)
+- Environment variables for API keys
 
-### `npm run build`
+## 🛠 How to Run Locally
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   ```bash
+   git clone <repository-url>
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Navigate to the project directory:
 
-### `npm run eject`
+   ```bash
+   cd linked-post-dashboard
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. Install dependencies:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+    npm install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4. Create a `.env` file in the root directory and add your RapidAPI key:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```.env
+   REACT_APP_RAPIDAPI_KEY=9e02af5f24mshd599d4da343d6e2p123a19jsn14c0dc1e3577
+   REACT_APP_RAPIDAPI_HOST=linkedin-api8.p.rapidapi.com
+   ```
 
-## Learn More
+5. Start the development server:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+    npm start
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+6. Open your browser and navigate to `http://localhost:3000`.
+7. Enjoy the LinkedIn insights dashboard!
 
-### Code Splitting
+## 🧠 Assumptions Made
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- The API response format follows what RapidAPI provides (with resharedPost, image, video, author etc.)
+- Reshared content includes either an author or a company name.
+- API pagination and error handling are minimal for demo purposes.
+- All posts are considered public and require no LinkedIn authentication.
 
-### Analyzing the Bundle Size
+## 📞 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+For any questions or feedback, please reach out to me through the sources below:
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Email:** [48durgesh.chaudhary@gmail.com](mailto:48durgesh.chaudhary@gmail.com)
+- **LinkedIn:** [Durgesh Chaudhary](https://www.linkedin.com/in/durgesh-chaudhary/)
+- **GitHub:** [@yodkwtf](https://github.com/yodkwtf)
