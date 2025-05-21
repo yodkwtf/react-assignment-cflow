@@ -1,0 +1,684 @@
+{
+  "success": true,
+  "message": "",
+  "data": {
+    "total": 255,
+    "count": 10,
+    "items": [
+      {
+        "urn": "7331091858124693505",
+        "url": "https://www.linkedin.com/posts/openheartedsociety_webinar-empower-their-transition-ai-activity-7331091858124693505-NE_s",
+        "template": "",
+        "text": "🎓 WEBINAR: Empower Their Transition – AI Support for Neurodivergent Teens\n🧠 Hosted by Neurodiversity Academy | Supported by Neurodivergent Mates\n\nAre you a parent, educator, or professional supporting neurodivergent teenagers?\n\nJoin us for a 30-minute free webinar with special guest Craig Smith (The Universal Sandpit), a global leader in inclusive and accessible education, as we explore how AI can empower neurodivergent teens transitioning from high school to tertiary education.\n\n🗓 Date: 3 June 2025\n🕢 Time: 7:30pm – 8:00pm AEST (Sydney)\n🎤 Guest Speaker: Craig Smith\n💡 Topic: Practical tech to boost learning, confidence, and independence\n🔗 Register here: https://lnkd.in/gYgm6YXW \n\nLet’s harness AI for equity and empowerment.\nhashtag#Neurodiversity hashtag#Inclusion hashtag#AIinEducation hashtag#NeurodivergentSupport hashtag#Webinar hashtag#TertiaryEducation hashtag#UniversalDesign hashtag#ExecutiveFunctioning hashtag#NeurodivergentTeens hashtag#CraigSmith hashtag#NeurodiversityAcademy",
+        "postedAt": "now",
+        "postedDate": "2025-05-21 23:01:44.077 +0000 UTC",
+        "postedDateTimestamp": 1747868504077,
+        "reposted": false,
+        "video": {
+          "thumbnails": null,
+          "video": null
+        },
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5610AQHHh6_2MbMyKw/image-shrink_1280/B56Zb1FHlUGsAM-/0/1747868483677?e=1748476800\u0026v=beta\u0026t=_qt_BOisEunDx0mciXgE0JS7p_bngEU5Uuga9FBvFOA",
+            "width": 1280,
+            "height": 1810
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5610AQHHh6_2MbMyKw/image-shrink_480/B56Zb1FHlUGsAk-/0/1747868483678?e=1748476800\u0026v=beta\u0026t=7-mwpf2xxALntBCSfnDvexaeMwxB5S7EQ1aLY9oKZRU",
+            "width": 480,
+            "height": 679
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5610AQHHh6_2MbMyKw/image-shrink_160/B56Zb1FHlUGsAo-/0/1747868483678?e=1748476800\u0026v=beta\u0026t=FoG7I2QXeWt-b1uHQdIqQybCC1nXLN0H4Lwb5accpMQ",
+            "width": 160,
+            "height": 226
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5610AQHHh6_2MbMyKw/image-shrink_800/B56Zb1FHlUGsAc-/0/1747868483620?e=1748476800\u0026v=beta\u0026t=ZA2nMtLRz7xTnsUgwqveRC5gUrSJkdadLrCiALobp88",
+            "width": 800,
+            "height": 1131
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5610AQHHh6_2MbMyKw/image-shrink_20/B56Zb1FHlUGsAY-/0/1747868483620?e=1748476800\u0026v=beta\u0026t=BcBgACeZivT7ifuxd0gGjnVf8cGDX0FDhe1PnUtJbik",
+            "width": 20,
+            "height": 28
+          }
+        ],
+        "entity": {},
+        "article": {},
+        "object": {},
+        "author": {
+          "fullName": "Neurodivergent Mates",
+          "headline": "523 followers",
+          "username": "openheartedsociety",
+          "url": "https://www.linkedin.com/company/openheartedsociety/",
+          "profilePictures": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQGH3w8f-Rzjgw/company-logo_200_200/company-logo_200_200/0/1704367181628?e=1753315200\u0026v=beta\u0026t=KjQjmiCdsKkw3bb7rLU7ZCyjxONFqNDcTrcEPV74oAI"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQGH3w8f-Rzjgw/company-logo_100_100/company-logo_100_100/0/1704367181628?e=1753315200\u0026v=beta\u0026t=ax6yc9ryQavjugWk6ifW4m1Qpqeg8ifjz3TjT07DlVg"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQGH3w8f-Rzjgw/company-logo_400_400/company-logo_400_400/0/1704367181628?e=1753315200\u0026v=beta\u0026t=KgT4IkcxMV769hiTsa9mP895dhEqHXOWqx4SIQR2xjc"
+            }
+          ],
+          "type": "company"
+        },
+        "socialActivityCountsInsight": {
+          "numComments": 0,
+          "likeCount": 0,
+          "appreciationCount": 0,
+          "empathyCount": 0,
+          "InterestCount": 0,
+          "praiseCount": 0,
+          "funnyCount": 0,
+          "maybeCount": 0,
+          "totalReactionCount": 0
+        }
+      },
+      {
+        "urn": "7331091821890023424",
+        "url": "https://www.linkedin.com/posts/zyanyagomezgarcia_excited-to-share-that-ive-started-my-journey-activity-7331091821890023424-lUDS",
+        "template": "",
+        "text": "Excited to share that I’ve started my journey as an Instructor at Rolling Robots, where I get to combine my passion for computer science, robotics, and education!\nThrough this role, I’m helping students develop critical coding skills in languages/tools like Python, C++, C#, Scratch, and Unity, guiding them through robotics programming, game development, and AI concepts. I’m especially excited to introduce them to computational thinking, algorithms, and problem-solving strategies that are essential in tech-driven fields.\nAt Rolling Robots, students don’t just learn, they build, innovate, and explore. Whether it’s programming autonomous robots, designing interactive games, or applying AI principles in their projects, they get hands-on experience with the technologies shaping the future.\nI look forward to inspiring the next generation of computer scientists, engineers, and innovators while deepening my own knowledge in AI, robotics, and software development.\nExcited for what’s ahead in this incredible environment!",
+        "postedAt": "now",
+        "postedDate": "2025-05-21 23:01:35.438 +0000 UTC",
+        "postedDateTimestamp": 1747868495438,
+        "reposted": false,
+        "video": {
+          "thumbnails": null,
+          "video": null
+        },
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQFHE3qOKs28cg/feedshare-shrink_2048_1536/B56Zb1FKg3GoAo-/0/1747868494602?e=1750896000\u0026v=beta\u0026t=07r763Nku96Q8bzxWalZuZeYqxnQen2eFWn3WoW2GFg",
+            "width": 1536,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQFHE3qOKs28cg/feedshare-shrink_480/B56Zb1FKg3GoAY-/0/1747868494545?e=1750896000\u0026v=beta\u0026t=ly_B4tBJVL3DPde1wvagJlDMixo3Ok1332_gKj2PG_0",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQFHE3qOKs28cg/feedshare-shrink_1280/B56Zb1FKg3GoAk-/0/1747868494545?e=1750896000\u0026v=beta\u0026t=EwZkHduZWd4AVomcMQj0ueThA9_ru-8W2oz5u44VpE0",
+            "width": 1280,
+            "height": 1280
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQFHE3qOKs28cg/feedshare-shrink_800/B56Zb1FKg3GoAg-/0/1747868494545?e=1750896000\u0026v=beta\u0026t=3PN-rYdu7kgHZOvzzk6gylPq-FK4JEq8rYoch7b95i4",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQFHE3qOKs28cg/feedshare-shrink_20/B56Zb1FKg3GoAw-/0/1747868494512?e=1750896000\u0026v=beta\u0026t=Uxodc8nEFAgc5r6OsdXtAWrYR6Df9vzfdM6FTFl6WpE",
+            "width": 20,
+            "height": 20
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQFHE3qOKs28cg/feedshare-shrink_160/B56Zb1FKg3GoAc-/0/1747868494512?e=1750896000\u0026v=beta\u0026t=eObmQ5kdejAlBert7CCPZ9wiBG8lVQ5c2ifc8wZv0Dc",
+            "width": 160,
+            "height": 160
+          }
+        ],
+        "entity": {},
+        "article": {},
+        "object": {},
+        "author": {
+          "fullName": "Zyanya Gomez Garcia",
+          "headline": "Computer Science student Research Assistant at California State University, Long Beach | Software Engineering \u0026 Development | Cybersecurity",
+          "username": "zyanyagomezgarcia",
+          "url": "https://www.linkedin.com/in/zyanyagomezgarcia",
+          "profilePictures": [
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQFzBOJzm0-msg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1723798899316?e=1753315200\u0026v=beta\u0026t=b6qRo-pAZKG75P5fK-knrx0lEP85nkVlCLJuKz2zIEo"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQFzBOJzm0-msg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723798899316?e=1753315200\u0026v=beta\u0026t=u3VRGIT8TsXytRQ1Sm7w3xksAnfPHe_VVhIHxt1-yDA"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQFzBOJzm0-msg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1723798899316?e=1753315200\u0026v=beta\u0026t=vrcWmTz7PK3EPrK_0HmyhsrXnYgXMb3hMuH8tnJuRVY"
+            },
+            {
+              "width": 800,
+              "height": 800,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQFzBOJzm0-msg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723798899339?e=1753315200\u0026v=beta\u0026t=Xh2n9-gh05JQBEaoY1cgawU8ZLB1DkcAJx5TNI_UUc0"
+            }
+          ],
+          "type": "user"
+        },
+        "socialActivityCountsInsight": {
+          "numComments": 0,
+          "likeCount": 0,
+          "appreciationCount": 0,
+          "empathyCount": 0,
+          "InterestCount": 0,
+          "praiseCount": 0,
+          "funnyCount": 0,
+          "maybeCount": 0,
+          "totalReactionCount": 0
+        }
+      },
+      {
+        "urn": "7331091798250921984",
+        "url": "https://www.linkedin.com/posts/swetha-chandraprakash-mba-mspm-csm-95666990_ai-personal-assistant-for-project-professionals-activity-7331091798250921984-NUW6",
+        "template": "",
+        "text": "“The community is our superpower.”\n This powerful reminder from Amanda Palmer, PMP, perfectly captures what makes PMI such a special place—especially for those seeking connection, purpose, and growth post-military. So inspired by this recent conversation featuring three incredible PMI leaders who are shaping the future of project professionals and making it more inclusive, tech-forward, and people-centered:\n\nThree PMI executives discuss opportunities for professional growth:\nAmanda Palmer – Head of Community, North America\nGary Scharf – Global Head of Key Accounts\nKarla Mae Eidem, PMP – Regional Managing Director, North America\n\nTogether, they share how PMI is not just advancing project skills but building a global community where knowledge is shared, careers are accelerated, and tools like PMI Infinity and AI are helping take professionals to the next level.\nIf you’re navigating a career shift—especially post-military—this is a community worth exploring.\n\nCheck out PMI Infinity: https://lnkd.in/eCuxuMYx\n\nAnd a special shoutout to Matt Quick, who continues to lead with purpose in his work supporting PMI’s military outreach. His passion and dedication are helping veterans and service members find new paths in project management every day. 👏\n#QuickNote #ProjectManagement #Military #PMICommunity #VeteranSupport #PMIInfinity #FutureOfWork #Leadership #MilitaryTransition #PurposeDrivenWork",
+        "postedAt": "now",
+        "postedDate": "2025-05-21 23:01:29.802 +0000 UTC",
+        "postedDateTimestamp": 1747868489802,
+        "reposted": false,
+        "video": {
+          "thumbnails": null,
+          "video": null
+        },
+        "entity": {},
+        "article": {
+          "title": "AI Personal Assistant for Project Professionals | PMI Infinity",
+          "subtitle": "pmi.org",
+          "link": "https://www.pmi.org/infinity"
+        },
+        "object": {},
+        "author": {
+          "fullName": "Swetha Chandraprakash MBA, MSPM, CSM",
+          "headline": "Engagement specialist|Community Program Manager| Strategic planning and forecasting |People Management| Operations Expert |Talent acquisition \u0026 Employee Engagement |",
+          "username": "swetha-chandraprakash-mba-mspm-csm-95666990",
+          "url": "https://www.linkedin.com/in/swetha-chandraprakash-mba-mspm-csm-95666990",
+          "profilePictures": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQHNAKr21kvAkA/profile-displayphoto-shrink_200_200/B56ZOtLX00GwAY-/0/1733777260599?e=1753315200\u0026v=beta\u0026t=5-j-w5xb4oWhIDtCiLm0LaaCxxq3s1KuUmYR_5ZdFRU"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQHNAKr21kvAkA/profile-displayphoto-shrink_400_400/B56ZOtLX00GwAg-/0/1733777260599?e=1753315200\u0026v=beta\u0026t=eTMr7bBQFd6gWOQf9Gv2ZWMcGQA9kAJa9nquGhV5gA4"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQHNAKr21kvAkA/profile-displayphoto-shrink_100_100/B56ZOtLX00GwAU-/0/1733777260599?e=1753315200\u0026v=beta\u0026t=j0yOt4ekjY4gVkCffnSkJE3oQUW3jR7xdQYXWdfpUpQ"
+            },
+            {
+              "width": 800,
+              "height": 800,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQHNAKr21kvAkA/profile-displayphoto-shrink_800_800/B56ZOtLX00GwAc-/0/1733777260625?e=1753315200\u0026v=beta\u0026t=i_tESBayp5fndCoFV9qJa-KMtJwr4M3DcOEl1fEXlS4"
+            }
+          ],
+          "type": "user"
+        },
+        "socialActivityCountsInsight": {
+          "numComments": 0,
+          "likeCount": 0,
+          "appreciationCount": 0,
+          "empathyCount": 0,
+          "InterestCount": 0,
+          "praiseCount": 0,
+          "funnyCount": 0,
+          "maybeCount": 0,
+          "totalReactionCount": 0
+        }
+      },
+      {
+        "urn": "7331091799408607232",
+        "url": "https://www.linkedin.com/posts/christynorman_powervs-back-end-developer-activity-7331091799408607232-WK91",
+        "template": "",
+        "text": "Have a sharp new grad in your life who wants to work with all the cool tech and create solutions for our clients? They cloud join our team of highly talented cloud and infrastructure engineers. We're ramping up a new Kubernetes-based project we still need need one person for. Must be okay with living in Austin and working with me. 😁  Please share, and feel free to reach out with questions.",
+        "postedAt": "now",
+        "postedDate": "2025-05-21 23:01:30.078 +0000 UTC",
+        "postedDateTimestamp": 1747868490078,
+        "reposted": false,
+        "video": {
+          "thumbnails": null,
+          "video": null
+        },
+        "entity": {},
+        "article": {
+          "title": "PowerVS Back-End Developer",
+          "subtitle": "ibmglobal.avature.net",
+          "link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=31157\u0026source=WEB_Search_NA"
+        },
+        "object": {},
+        "author": {
+          "fullName": "Christy Norman",
+          "headline": "Senior Technical Staff Member, OpenShift \u0026 Container Runtimes on Power",
+          "username": "christynorman",
+          "url": "https://www.linkedin.com/in/christynorman",
+          "type": "user"
+        },
+        "socialActivityCountsInsight": {
+          "numComments": 0,
+          "likeCount": 0,
+          "appreciationCount": 0,
+          "empathyCount": 0,
+          "InterestCount": 0,
+          "praiseCount": 0,
+          "funnyCount": 0,
+          "maybeCount": 0,
+          "totalReactionCount": 0
+        }
+      },
+      {
+        "urn": "7331091737509089280",
+        "url": "https://www.linkedin.com/posts/welevelautomation_the-power-of-ai-tools-accelerating-growth-activity-7331091737509089280-F_GC",
+        "template": "",
+        "text": "🚀 Want to grow faster and smarter?\nAI tools aren't just for big tech anymore—they're revolutionizing how every business operates.\n\nFrom automating tasks to optimizing campaigns in real-time, the right tools can boost efficiency, save you time, and deliver serious ROI 💰\n\n🧠 Discover how AI can work for your business:\n👉 https://lnkd.in/gjz47qhr\n\n#AIforBusiness #MarketingAutomation #BusinessGrowth #WeLevelUp",
+        "postedAt": "now",
+        "postedDate": "2025-05-21 23:01:15.32 +0000 UTC",
+        "postedDateTimestamp": 1747868475320,
+        "reposted": false,
+        "video": {
+          "thumbnails": null,
+          "video": null
+        },
+        "entity": {},
+        "article": {
+          "title": "The Power of AI Tools: Accelerating Growth and ROI",
+          "subtitle": "welevel.net",
+          "link": "https://welevel.net/post/the-power-of-ai-tools-accelerating-growth-and-roi"
+        },
+        "object": {},
+        "author": {
+          "fullName": "WeLevel",
+          "headline": "176 followers",
+          "username": "welevelautomation",
+          "url": "https://www.linkedin.com/company/welevelautomation/",
+          "profilePictures": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQEX09ur7jqcDA/company-logo_200_200/B56ZW07Ep6GQAM-/0/1742497141751/welevelautomation_logo?e=1753315200\u0026v=beta\u0026t=xjgGL8CGJAeR-T0L2Ck0OpNNXi8lyNTeXhe3WeLL1Qk"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQEX09ur7jqcDA/company-logo_400_400/B56ZW07Ep6GQAc-/0/1742497141751/welevelautomation_logo?e=1753315200\u0026v=beta\u0026t=wSe45XDl30dWDEVplT9KQ0zGQpXhbhtyWgVd1jikO5g"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQEX09ur7jqcDA/company-logo_100_100/B56ZW07Ep6GQAU-/0/1742497141751/welevelautomation_logo?e=1753315200\u0026v=beta\u0026t=_l6HrQ5GbZv1Hh_APiti1Dfe_NVHRXI18xMd9GgOtAo"
+            }
+          ],
+          "type": "company"
+        },
+        "socialActivityCountsInsight": {
+          "numComments": 0,
+          "likeCount": 0,
+          "appreciationCount": 0,
+          "empathyCount": 0,
+          "InterestCount": 0,
+          "praiseCount": 0,
+          "funnyCount": 0,
+          "maybeCount": 0,
+          "totalReactionCount": 0
+        }
+      },
+      {
+        "urn": "7331091733138571264",
+        "url": "https://www.linkedin.com/posts/aiva-agents_evolvedoutsourcing-smeinnovation-aiproductivity-activity-7331091733138571264--qf5",
+        "template": "",
+        "text": "How AI-Enhanced Virtual Assistants Are Reshaping SME Productivity\n\nIn today’s fast-paced business world, Australian SMEs juggle tight budgets, growing workloads, and fierce competition. The secret weapon for many forward-looking companies? AI-enhanced virtual assistants—a seamless blend of machine efficiency and human insight that’s redefining what small teams can achieve.\n\nWhy Traditional Support Falls Short? Hiring a full-time employee for every administrative function is costly and slow.\n\nA. Recruitment delays: weeks of interviewing, onboarding, and training.\nB. Fixed capacity: You pay for 40 hours even when demand dips.\nC. Limited scope: Human assistants excel at creative or complex tasks, but repetitive workflows drain their time.\n\nAI-enhanced VAs, however, offer on-demand scalability and precise task execution—all while learning and improving.\n\nCore Benefits for SMEs: \n\n1. Instant Scalability\nNeed 10 hours of data entry this week and 30 hours next? AI agents flex effortlessly, so you only pay for what you use—no recruitment or layoffs required.\n2. Consistent Accuracy\nPowered by natural-language processing and computer vision, these assistants achieve over 98% data-entry accuracy. Financial reconciliation, CRM updates, and report generation happen without human errors.\n3. 24/7 Availability\nWhile your office sleeps, AI-driven chatbots and workflow agents continue handling customer queries, order processing, and system monitoring—boosting responsiveness and customer satisfaction around the clock.\n4. Continuous Improvement\nEvery interaction feeds back into the AI model. Under a human-in-the-loop framework, strategy consultants review exceptions weekly, retrain agents, and roll out enhancements—so your operations get smarter week by week.\n\nGetting Started in Four Steps\n1. Identify Workflow Bottlenecks-Map your top 5 repetitive tasks—whether email triage, lead capture, or billing.\nSelect \u0026 Train Your AI Agents\n2. Choose agents tailored to your tech stack (e.g., API connectors, custom GPTs) and define success metrics.\n3. Implement human-in-the-loop governance—assign a consultant to review exceptions, refine processes, and coach your team.\n4. Scale \u0026 Iterate—Add new agents (social media scheduling, invoice reminders) as you measure ROI—typically seen within 30 days.\n\nEmbrace the Future of Work\nAI-enhanced virtual assistants aren’t a far-off trend—they’re already enabling Australian SMEs to work smarter, not harder. By automating routine tasks, delivering consistent accuracy, and continuously evolving, these digital teammates unlock new levels of productivity and innovation.\n\nReady to transform your operations? Comment below with your biggest manual pain point, and let’s explore how AI-enhanced VAs can reclaim your time and energize your team.\n#EvolvedOutsourcing #SMEInnovation #AIProductivity #VirtualAssistants #AustraliaBusiness",
+        "postedAt": "now",
+        "postedDate": "2025-05-21 23:01:14.278 +0000 UTC",
+        "postedDateTimestamp": 1747868474278,
+        "reposted": false,
+        "video": {
+          "thumbnails": null,
+          "video": null
+        },
+        "entity": {},
+        "article": {},
+        "object": {},
+        "author": {
+          "fullName": "AIVA \u0026 Agents",
+          "headline": "2 followers",
+          "username": "aiva-agents",
+          "url": "https://www.linkedin.com/company/aiva-agents/",
+          "profilePictures": [
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHL-G59Q1sAcg/company-logo_100_100/B4EZWyTrA_GYAQ-/0/1742453257084/aiva_agents_logo?e=1753315200\u0026v=beta\u0026t=UdlyR1q0F-BihsY_cQ2FXK7_O8vjm7WOVU0CdjhtIZw"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHL-G59Q1sAcg/company-logo_400_400/B4EZWyTrA_GYAY-/0/1742453257084/aiva_agents_logo?e=1753315200\u0026v=beta\u0026t=n8O9YBc50n_5P5l7Xk9ADVGTTu3cHtr7kxsDsCzKZqY"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHL-G59Q1sAcg/company-logo_200_200/B4EZWyTrA_GYAI-/0/1742453257084/aiva_agents_logo?e=1753315200\u0026v=beta\u0026t=NFllQtzBpFAuJ6aSCOo9TjEdj-08tkDqLGbcQm70toE"
+            }
+          ],
+          "type": "company"
+        },
+        "socialActivityCountsInsight": {
+          "numComments": 0,
+          "likeCount": 0,
+          "appreciationCount": 0,
+          "empathyCount": 0,
+          "InterestCount": 0,
+          "praiseCount": 0,
+          "funnyCount": 0,
+          "maybeCount": 0,
+          "totalReactionCount": 0
+        }
+      },
+      {
+        "urn": "7331091717997166593",
+        "url": "https://www.linkedin.com/posts/kristybarberconsulting_taxstrategy-technology-smb-activity-7331091717997166593-KVmq",
+        "template": "",
+        "text": "The right tech tools can transform your tax strategy.\n\nCloud-based accounting systems like QuickBooks Online give advisors real-time access to your books, enabling proactive planning and tax savings all year round. \n\nPlus, tech advances are making tax filings more efficient, allowing you to focus on strategic financial decisions instead of last-minute filings.\n\nAdopting the right technology can be the difference between a successful financial strategy and one that isn’t.\n\nIf you're ready to optimize your tax strategy with the right tech tools, reach out for a systems audit. \n\nLet’s ensure your accounting systems are working for you, not against you, so you can focus on what matters most. \n\nClick here: https://kristybarber.com/ \n\n#TaxStrategy #Technology #SMB #SmallBusiness #Innovation #Accounting #Finance #DigitalTransformation",
+        "postedAt": "now",
+        "postedDate": "2025-05-21 23:01:10.668 +0000 UTC",
+        "postedDateTimestamp": 1747868470668,
+        "reposted": false,
+        "video": {
+          "thumbnails": null,
+          "video": null
+        },
+        "entity": {},
+        "article": {},
+        "object": {},
+        "author": {
+          "fullName": "Kristy Barber Consulting",
+          "headline": "324 followers",
+          "username": "kristybarberconsulting",
+          "url": "https://www.linkedin.com/company/kristybarberconsulting/",
+          "profilePictures": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C560BAQEgSjGqjK7cOg/company-logo_200_200/company-logo_200_200/0/1660606589377/kristybarberconsulting_logo?e=1753315200\u0026v=beta\u0026t=n0J8OLTnQqROALaMHZpkqRGEYUueVhoOhcB4TYFGoms"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C560BAQEgSjGqjK7cOg/company-logo_100_100/company-logo_100_100/0/1660606589377/kristybarberconsulting_logo?e=1753315200\u0026v=beta\u0026t=vTGBAviGLC0ut-A0uL3Fb4RkhT78j9VJqIlHEOG5CwU"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C560BAQEgSjGqjK7cOg/company-logo_400_400/company-logo_400_400/0/1660606589377/kristybarberconsulting_logo?e=1753315200\u0026v=beta\u0026t=Rs6rtHGOxkskm1yePn1xNfFJcX-eIT_BcxKiDUWjI1g"
+            }
+          ],
+          "type": "company"
+        },
+        "socialActivityCountsInsight": {
+          "numComments": 0,
+          "likeCount": 0,
+          "appreciationCount": 0,
+          "empathyCount": 0,
+          "InterestCount": 0,
+          "praiseCount": 0,
+          "funnyCount": 0,
+          "maybeCount": 0,
+          "totalReactionCount": 0
+        }
+      },
+      {
+        "urn": "7331091704462106626",
+        "url": "https://www.linkedin.com/posts/davaasuren-orgodol-b9866929b_womeninstem-empowerment-stemgraduation-activity-7331091704462106626-lPQQ",
+        "template": "",
+        "text": "🌟 Honored to be invited to the Empowering Women in STEM 2025 Graduation Event!\nThis opportunity means a lot to me—not just as a student in tech, but as someone passionate about making space for more women in STEM to thrive, lead, and innovate.\nExcited to celebrate progress, representation, and the incredible work of women in science, technology, engineering, and mathematics. 💪💻🔬\nThank you to the organizers for recognizing and empowering women like me on this journey. Let’s continue breaking barriers and building a future where diversity drives discovery. 🚀\n#WomenInSTEM #Empowerment #STEMGraduation #RepresentationMatters #Grateful #MIU #STEM2025",
+        "postedAt": "now",
+        "postedDate": "2025-05-21 23:01:07.441 +0000 UTC",
+        "postedDateTimestamp": 1747868467441,
+        "reposted": false,
+        "video": {
+          "thumbnails": null,
+          "video": null
+        },
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGD6RMOM3AMmA/feedshare-shrink_160/B56Zb1FDlUHUAc-/0/1747868466463?e=1750896000\u0026v=beta\u0026t=jXfmIfQtUwSWFQbZeL2nwvLMXf0xSQOnV1eRXnIQXPk",
+            "width": 160,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGD6RMOM3AMmA/feedshare-shrink_2048_1536/B56Zb1FDlUHUAo-/0/1747868466536?e=1750896000\u0026v=beta\u0026t=SOvq7Ghcj59kf8DiIM3I6-KkdUMoHW-nmLiSq8scO_8",
+            "width": 1228,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGD6RMOM3AMmA/feedshare-shrink_1280/B56Zb1FDlUHUAk-/0/1747868466463?e=1750896000\u0026v=beta\u0026t=UrQHhrih9HDCoIX6K1wcBXhkNsJ9tcGBolgTQe2phDk",
+            "width": 1280,
+            "height": 1600
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGD6RMOM3AMmA/feedshare-shrink_480/B56Zb1FDlUHUAY-/0/1747868466463?e=1750896000\u0026v=beta\u0026t=SETTxE1Etve_QsNiY-7Iu4zqkMs59bC-v4nzP9hGxlI",
+            "width": 480,
+            "height": 600
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGD6RMOM3AMmA/feedshare-shrink_800/B56Zb1FDlUHUAg-/0/1747868466474?e=1750896000\u0026v=beta\u0026t=4fzVv4z4DOSnH4skJmwrlYxHPdWuwadEOkyPbRz4W4U",
+            "width": 800,
+            "height": 1000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGD6RMOM3AMmA/feedshare-shrink_20/B56Zb1FDlUHUAw-/0/1747868466474?e=1750896000\u0026v=beta\u0026t=90kH9FGRtamKl-UiyJE5BfzHLsDRkTsdkRtHDJ6gwYk",
+            "width": 20,
+            "height": 25
+          }
+        ],
+        "entity": {},
+        "article": {},
+        "object": {},
+        "author": {
+          "fullName": "Davaasuren Orgodol",
+          "headline": "Software Developer| Available for full-time W-2 Employment | Willing to Relocate",
+          "username": "davaasuren-orgodol-b9866929b",
+          "url": "https://www.linkedin.com/in/davaasuren-orgodol-b9866929b",
+          "profilePictures": [
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D5635AQHUoM3PKeYNtg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1726249759791?e=1748476800\u0026v=beta\u0026t=Eotc3jjjFJzXGOGpSu2fQxDvYfwhDOV6oseIAs1BZF0"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D5635AQHUoM3PKeYNtg/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1726249759791?e=1748476800\u0026v=beta\u0026t=ASOyFElPib4Yeym5kJhZgBgw4aIuwkGDURBxk5tVIws"
+            },
+            {
+              "width": 800,
+              "height": 800,
+              "url": "https://media.licdn.com/dms/image/v2/D5635AQHUoM3PKeYNtg/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1726249759791?e=1748476800\u0026v=beta\u0026t=04iwx9zUaPQ67M8R0tqGJIO65rG6SBkcN0fG_VoJUVg"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D5635AQHUoM3PKeYNtg/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1726249759766?e=1748476800\u0026v=beta\u0026t=dtSOqQ1zUiMVcSQ01I73r9Df8KKw_C6B-1Wd9OcV7Xs"
+            }
+          ],
+          "type": "user"
+        },
+        "socialActivityCountsInsight": {
+          "numComments": 0,
+          "likeCount": 0,
+          "appreciationCount": 0,
+          "empathyCount": 0,
+          "InterestCount": 0,
+          "praiseCount": 0,
+          "funnyCount": 0,
+          "maybeCount": 0,
+          "totalReactionCount": 0
+        }
+      },
+      {
+        "urn": "7331091697734508544",
+        "url": "https://www.linkedin.com/posts/jared-butler-b3525b22b_eod-tccc-bombsquad-activity-7331091697734508544-YCp9",
+        "template": "",
+        "text": "Been in this game a while, 6 years as a combat medic, 4 as a corrections EMR. Since joining WMDTech, I’ve worked with Bomb Squads all over, and I’ve seen both ends of the spectrum when it comes to medical readiness.\nSome teams are solid. Others? No med gear, no training, no plan.\nI’m not a bomb tech—but I’ve seen enough to know this: medical training should be standard.\n\nWhat's your opinion and experience on squads medical readiness?\n\n#EOD #TCCC #BombSquad #MedicalReadiness #WMDTech",
+        "postedAt": "now",
+        "postedDate": "2025-05-21 23:01:05.837 +0000 UTC",
+        "postedDateTimestamp": 1747868465837,
+        "reposted": false,
+        "video": {
+          "thumbnails": null,
+          "video": null
+        },
+        "entity": {},
+        "article": {
+          "title": "Why Medical Training Needs to Be a Serious Standard on Every Bomb Squad",
+          "subtitle": "Jared Butler",
+          "link": "https://www.linkedin.com/pulse/why-medical-training-needs-serious-standard-every-bomb-jared-butler-5ftjc?trackingId=imChmb7gSjuxJCZ76kP95w%3D%3D"
+        },
+        "object": {},
+        "author": {
+          "fullName": "Jared Butler",
+          "headline": "Supply Chain \u0026 DOS Program Manager at WMDTech LLC - TACMED Instructor",
+          "username": "jared-butler-b3525b22b",
+          "url": "https://www.linkedin.com/in/jared-butler-b3525b22b",
+          "profilePictures": [
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQGwce2m8ow92w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1679160297769?e=1753315200\u0026v=beta\u0026t=WRYc6JAk-x0j0zm_4xBy7cM7Xg6Wf6JLir49Qj8pe2c"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQGwce2m8ow92w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1679160297769?e=1753315200\u0026v=beta\u0026t=3I0vzbv4PR6V5oyWVYOO73NW8OqOwU6UkFRqj6XxUNA"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQGwce2m8ow92w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1679160297769?e=1753315200\u0026v=beta\u0026t=SuWgCSDIrbghd5bz5jj3E3LcVHWwHk1uyEqgVcmuqwU"
+            },
+            {
+              "width": 800,
+              "height": 800,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQGwce2m8ow92w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1679160297769?e=1753315200\u0026v=beta\u0026t=JkxC0U8STw3w8W3S2Hpawlx8MTSpg_pEQDnve2lJWEU"
+            }
+          ],
+          "type": "user"
+        },
+        "socialActivityCountsInsight": {
+          "numComments": 0,
+          "likeCount": 0,
+          "appreciationCount": 0,
+          "empathyCount": 0,
+          "InterestCount": 0,
+          "praiseCount": 0,
+          "funnyCount": 0,
+          "maybeCount": 0,
+          "totalReactionCount": 0
+        }
+      },
+      {
+        "urn": "7331091693997395968",
+        "url": "https://www.linkedin.com/posts/milk-it-252153361_tired-of-flashy-it-providers-who-overpromise-activity-7331091693997395968--v8_",
+        "template": "",
+        "text": "Tired of flashy IT providers who overpromise and underdeliver?\nSo are we.\n\nAt MilkIT, we offer Real IT Support – No Bull. That means:\n\t•\tNo tech jargon just to sound smart.\n\t•\tNo long waits for basic fixes.\n\t•\tNo selling you services you don’t need.\n\t•\tJust responsive, reliable, and genuinely helpful support from people who know what they’re doing.\n\nWe’ve built our reputation on honesty, transparency, and actually solving problems – not hiding behind ticket numbers or endless escalation chains.\n\nWhether you’re a startup or scaling fast, we keep your systems running, secure, and stress-free. And guess what - we can help you develop bespoke smart systems to improve your business processes as well! \n\nLet’s cut the nonsense and get IT sorted.\nGet in touch at enquiries@milk-it.co.uk or visit www.milk-it.co.uk to learn more.",
+        "postedAt": "now",
+        "postedDate": "2025-05-21 23:01:04.946 +0000 UTC",
+        "postedDateTimestamp": 1747868464946,
+        "reposted": false,
+        "video": {
+          "media": "urn:li:digitalmediaAsset:D4D05AQE7NHf98N5New",
+          "entityUrn": "urn:li:digitalmediaAsset:D4D05AQE7NHf98N5New",
+          "duration": 5000,
+          "thumbnails": [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4D05AQE7NHf98N5New/videocover-high/B4DZb1FCB.GYBo-/0/1747868463012?e=1748476800\u0026v=beta\u0026t=jtisREpQR8e5k7vACyUtWv0u5DU15JdaXwyL-XjU818",
+              "width": 720,
+              "height": 720
+            },
+            {
+              "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE7NHf98N5New/feedshare-video-thumbnail-high/B4DZb1FCB.GYCU-/0/1747868463475?e=1748476800\u0026v=beta\u0026t=prKbSOVkNHapwtepMFQ17EqrvSsToTillBTG7Jfa2wA",
+              "width": 720,
+              "height": 720
+            },
+            {
+              "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE7NHf98N5New/feedshare-video-thumbnail-low/B4DZb1FCB.GYBE-/0/1747868463390?e=1748476800\u0026v=beta\u0026t=qCIhis2XWBXCz1IUvYciZ7gOKcJz65KdIYceyuh_1gA",
+              "width": 360,
+              "height": 360
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4D05AQE7NHf98N5New/videocover-low/B4DZb1FCB.GYBk-/0/1747868462922?e=1748476800\u0026v=beta\u0026t=exyASYdhMiKz_U-RwywxcqElNiOlKAfgAl80vnXtjBM",
+              "width": 360,
+              "height": 360
+            }
+          ],
+          "video": [
+            {
+              "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE7NHf98N5New/mp4-720p-30fp-crf28/B4DZb1FCB.GYBM-/0/1747868463115?e=1748476800\u0026v=beta\u0026t=6m8HX4w2eO8_DGAidLH2kCiVS-nA9u-ZPCArPVVOU8U",
+              "width": 720,
+              "height": 720,
+              "bitRate": 326641,
+              "mediaType": "video/mp4"
+            },
+            {
+              "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE7NHf98N5New/mp4-640p-30fp-crf28/B4DZb1FCB.GYBI-/0/1747868463081?e=1748476800\u0026v=beta\u0026t=wviliWXhZrItAZCac2UiYEQEzP2Oe6VcvgYQv18IV4k",
+              "width": 640,
+              "height": 640,
+              "bitRate": 244308,
+              "mediaType": "video/mp4"
+            }
+          ]
+        },
+        "entity": {},
+        "article": {},
+        "object": {},
+        "author": {
+          "fullName": "Milk IT",
+          "headline": "MilkIT – Straight-Talking IT Support for Businesses | Bespoke Digital Systems | No Jargon, No Call Centers | Just Reliable IT, VoIP, Broadband / Fibre Lines, Websites \u0026 Real Support When You Need It",
+          "username": "milk-it-252153361",
+          "url": "https://www.linkedin.com/in/milk-it-252153361",
+          "profilePictures": [
+            {
+              "width": 800,
+              "height": 800,
+              "url": "https://media.licdn.com/dms/image/v2/D4E03AQFoExqIKYQgcA/profile-displayphoto-shrink_800_800/B4EZZPyPCDHkAc-/0/1745095292511?e=1753315200\u0026v=beta\u0026t=A3OO0WVW4mJf4fhHxmHA3BDp11_H5IEI84rPlA9dqOc"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4E03AQFoExqIKYQgcA/profile-displayphoto-shrink_100_100/B4EZZPyPCDHkAU-/0/1745095292511?e=1753315200\u0026v=beta\u0026t=3QqQqVMKF51fD7HPKO35GFlb-LgKrmzLvCHOicjAxxI"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4E03AQFoExqIKYQgcA/profile-displayphoto-shrink_400_400/B4EZZPyPCDHkAg-/0/1745095292511?e=1753315200\u0026v=beta\u0026t=_Tk5rFd5d-lA0HdariJqLqUj0CjgelfwAOBIz2MHBKo"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4E03AQFoExqIKYQgcA/profile-displayphoto-shrink_200_200/B4EZZPyPCDHkAY-/0/1745095292509?e=1753315200\u0026v=beta\u0026t=lrpK9vEa5V3PZ9Cfyjt_mKJpgVaT7xpq_kaEnroafdI"
+            }
+          ],
+          "type": "user"
+        },
+        "socialActivityCountsInsight": {
+          "numComments": 0,
+          "likeCount": 0,
+          "appreciationCount": 0,
+          "empathyCount": 0,
+          "InterestCount": 0,
+          "praiseCount": 0,
+          "funnyCount": 0,
+          "maybeCount": 0,
+          "totalReactionCount": 0
+        }
+      }
+    ]
+  }
+}
